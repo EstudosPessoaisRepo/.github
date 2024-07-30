@@ -1,1 +1,1 @@
-# .github
+# Repositorio para estudos pessoais.
